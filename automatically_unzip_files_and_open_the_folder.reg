@@ -1,0 +1,109 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\7-Zip.001\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.7z\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.arj\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.bz2\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.bzip2\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.cab\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.cpio\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.deb\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.dmg\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.esd\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.fat\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.gzip\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.gz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.hfs\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.iso\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.lha\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.lzh\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.lzma\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.ntfs\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.rar\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.rpm\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.squashfs\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.swm\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.tar\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.taz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.tbz2\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.tbz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.tgz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.tpz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.txz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.vhd\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.wim\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.xar\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.xz\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.zip\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
+
+[HKEY_CLASSES_ROOT\7-Zip.z\shell\open\command]
+@="cmd /k \"C:\\Progra~1\\7-Zip\\7z.exe x \"%1\" -oC:\\UNZIP\\* & explorer C:\\UNZIP & exit\""
